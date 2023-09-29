@@ -1,20 +1,8 @@
 # Trends in Atmospheric Concentrations of CO2
 Time Series Analysis
 
-Mauna Loa is the world’s largest active volcano which recently erupted "for the first time in four
-decades". Researchers from the United States National Oceanic and Atmospheric Association
-(NOAA), before their work was interrupted by this recent eruption of theMauna Loa volcano, were
-stationed there to measure how the world’s atmospheric carbon dioxide has been changing over
-time. With their research, they have been contributing to the research on climate change. CO2 as
-one of the greenhouse gases is the primary driver of climate change. Studying how the CO2 level
-has been changing over time helps us understand the severity of the issue of climate change. It is
-equally important to be able to make predictions about how it will change in the future because
-with that, we can raise awareness among the public and informpolicymakers about the issue so
-that they can make policies that make it easy to apply preventative measures. With the aim to model
-the atmospheric CO2 level utilizing the monthly data collected at theMauna Loa Observatory in
-Hawaii, between 2000 and 2019, and make validation for the model about the CO2 level for the year
-2020 with the 1 year ahead forecasting. Additionally, the 3-year ahead (2019-2022) forecast provides
-a visual representation of atmospheric CO2 level in the hypothetical scenario where COVID-19 did
-not occur, and we have continued to emit the same level of CO2. Forecast shows that unfortunately,
-the CO2 level has continued to increase despite the pandemic forcing people to stay at home and
-consequently not emit CO2 at the same rate as pre-pandemic.
+Mauna Loa, the world's largest active volcano, recently experienced its first eruption in four decades. Prior to this unexpected event, researchers from the United States National Oceanic and Atmospheric Administration (NOAA) were stationed there, diligently tracking changes in the Earth's atmospheric carbon dioxide levels over time. Their work has been a significant contribution to the ongoing research on climate change.
+
+Carbon dioxide (CO2), a prominent greenhouse gas, serves as a primary driver of climate change. The study of its historical trends helps us grasp the gravity of the climate change issue. Equally crucial is our ability to make predictions about future CO2 levels, as this knowledge enables us to raise public awareness and inform policymakers. In turn, informed policies can facilitate the implementation of preventive measures.
+
+To achieve this goal, my aim is to develop a model for atmospheric CO2 levels using monthly data collected at the Mauna Loa Observatory in Hawaii between 2000 and 2019. Additionally, I sought to validate this model's accuracy by forecasting CO2 levels for the year 2020 with a one-year ahead prediction. Furthermore, a three-year ahead forecast (2019-2022) was created to visually depict the atmospheric CO2 levels in a hypothetical scenario where COVID-19 did not occur, and emissions continued at the same pre-pandemic rate. Unfortunately, the forecast demonstrates that CO2 levels have continued to rise, despite the pandemic's impact on reducing emissions due to people staying at home.
